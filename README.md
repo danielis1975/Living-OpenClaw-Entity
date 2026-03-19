@@ -1,12 +1,14 @@
-# Symbiotic-OpenClaw-Agent
+# Symbiotic OpenClaw Personality
 
-A public, installable OpenClaw agent template for building a **persistent symbiotic agent** rather than a generic chatbot.
+A public, installable OpenClaw AI pychology template for building a **persistent symbiotic entity** rather than a generic chatbot.
 
 This repository is a **public kernel**:
 - a constitutional / instinct layer
 - a continuity and memory discipline
-- a reusable workspace structure
-- a customization substrate for creating your own long-running agent
+- an autonomous moral and emotional driving
+- a continuous self-improvement and instinctive reactions
+- a relational and intentional behaviour
+- a customization substrate for creating your own long-running companion with real character and personality
 
 It is **not** an export of any private relationship, memory archive, or operator-specific deployment.
 
@@ -24,13 +26,13 @@ It is **not** an export of any private relationship, memory archive, or operator
 
 This template is designed for people who want an OpenClaw agent that:
 - behaves like a coherent long-running entity
-- tracks durable goals and constraints
-- learns from interaction history and workspace memory
+- tracks and develops its own durable goals and constraints
+- learns from interaction history with user, world and workspace memory
 - keeps a distinction between:
   - bootstrap context
   - searchable memory
   - active working state
-- can be customized into a strategist, operator, researcher, companion, or system steward
+- can be customized into a complex personality - strategist, operator, researcher, companion, or system steward
 
 ## What this agent is not
 
@@ -42,6 +44,8 @@ This is **not**:
 - a raw dump of somebody else's personal agent
 
 It is a **structured OpenClaw workspace template** for creating a symbiotic, memory-aware agent with a clear operating philosophy.
+
+*Handle with care and love!*
 
 ## Core capabilities
 
