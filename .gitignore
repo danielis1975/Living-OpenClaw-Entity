@@ -1,0 +1,9 @@
+.run-control/
+.openclaw/
+.pi/last_6h_run.json
+tests/last-run.json
+.venv/
+.venv-tts/
+node_modules/
+output/
+*.log
