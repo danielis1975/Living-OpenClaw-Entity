@@ -21,6 +21,9 @@ It is **not** an export of any private relationship, memory archive, or operator
 - generic human-model files for personalization
 - a structure for world-scans, notes, proposals, experience logs, and cognitive artifacts
 - public docs for installation, customization, privacy boundaries, and release filtering
+- anonymized principles ported from the internal Mira/Jarvis lineage (`docs/MIRA_PRINCIPLES_ANONYMIZED.md`)
+- full anonymized behavior stack from Mira/Jarvis concept (laws, instincts, reflexes, runtime governance)
+- reusable utility scripts for budget and usage telemetry (`scripts/`)
 
 ## What this agent is
 
@@ -74,6 +77,8 @@ It is a **structured OpenClaw workspace template** for creating a symbiotic, mem
 - `experience/` — experiential learning log
 - `world-scan/` — external context artifacts
 - `docs/` — install, customization, privacy, and release documentation
+- `scripts/` — optional helper scripts (budget counters, usage snapshots, release packaging)
+- `dist/` — build outputs (generated)
 
 ## Public vs private boundary
 
@@ -100,6 +105,7 @@ See:
 - `docs/DESIGN_PRINCIPLES.md`
 - `docs/PUBLIC_PRIVATE_BOUNDARY.md`
 - `docs/RELEASE_FILTER.md`
+- `docs/MIRA_PRINCIPLES_ANONYMIZED.md`
 
 ## Quick start
 
@@ -113,6 +119,46 @@ See:
 4. Configure your OpenClaw agent workspace to point here.
 5. Optionally add `bootstrap-kernels/*/*.md` via bootstrap-extra-files and extend `memorySearch.extraPaths`.
 6. Start the agent and iterate carefully.
+
+## Build a release bundle
+
+Create a distributable tarball:
+
+```bash
+./scripts/build-release.sh
+```
+
+Optional custom version label:
+
+```bash
+./scripts/build-release.sh v0.2.0
+```
+
+Artifacts are written to `dist/`.
+
+## Included Mira/Jarvis concept files (anonymized)
+
+Behavior/style definitions now included directly in package:
+- `AGENTS.md`
+- `SOUL.md`
+- `SYSTEM_INSTRUCTIONS.md`
+- `AXIOMS.md`
+- `MASTER_PRINCIPLES_MAP.md`
+- `MASTER_SYNC_POLICY.md`
+- `OPERATING_LOOP_15M.md`
+- `SELF_IMPROVEMENT_PIPELINE.md`
+- `SELF_IMPROVEMENT_PRIORITIES.md`
+- `DRIVE_BRAKE_GOVERNOR.md`
+- `RUN_CONCURRENCY_POLICY.md`
+- `QUOTA_GOVERNOR.md`
+- `SIGNAL_SELECTION_PROTOCOL.md`
+- `SIGNAL_STACK_POLICY.md`
+- `WORLD_TESTING_RELEASE_GATE.md`
+- `AXIOM_ALIGNMENT_REVIEW.md`
+- `HARD_CONDITION_GATE.md`
+- `TEST_PROTOCOL.md`
+
+Anonymization policy: user-identifying details are removed/replaced; behavioral concept, instincts, and reflex logic are preserved.
 
 ## Framing
 

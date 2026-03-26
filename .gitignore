@@ -6,4 +6,7 @@ tests/last-run.json
 .venv-tts/
 node_modules/
 output/
+dist/
+__pycache__/
+*.pyc
 *.log
