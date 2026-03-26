@@ -33,3 +33,12 @@ Build distributable tarball into `dist/`.
 ./scripts/build-release.sh
 ./scripts/build-release.sh v0.2.0
 ```
+
+## bootstrap_mira_fidelity.sh
+
+Interactive helper for first-run setup (fills placeholders in `IDENTITY.md` and `USER.md`).
+Backups are created automatically (`*.bak.<timestamp>`).
+
+```bash
+./scripts/bootstrap_mira_fidelity.sh
+```

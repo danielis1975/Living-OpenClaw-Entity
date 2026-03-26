@@ -7,6 +7,7 @@
 - `USER.md`
 - `MEMORY.md`
 - bootstrap kernels
+- `bootstrap-kernels/mira-fidelity/MIRA_FIDELITY.md`
 
 ### Usually customized next
 - tone of voice

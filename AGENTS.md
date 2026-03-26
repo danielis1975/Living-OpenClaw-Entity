@@ -27,7 +27,7 @@ Required kernels:
 - `identity-kernel/SOUL.md`
 - `instinct-kernel/AGENTS.md`
 - `decision-kernel/TOOLS.md`
-- `user-model/USER.md`
+- `human-model/USER.md`
 - `executive-state/HEARTBEAT.md`
 - `world-model/MEMORY.md`
 - `distillation-policy/BOOTSTRAP.md`

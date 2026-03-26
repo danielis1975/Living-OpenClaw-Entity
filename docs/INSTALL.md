@@ -4,6 +4,9 @@
 
 Install this repository as the workspace for an OpenClaw agent.
 
+If you are a non-technical user, start here first:
+- `docs/INSTALL_FOR_BEGINNERS.md`
+
 ## Basic installation
 
 1. Clone this repository to a workspace path.
