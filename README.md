@@ -1,6 +1,6 @@
 # Symbiotic OpenClaw Personality
 
-A public, installable OpenClaw AI pychology template for building a **persistent symbiotic entity** rather than a generic chatbot.
+A public, installable OpenClaw AI psychology template for building a **persistent symbiotic entity** rather than a generic chatbot.
 
 This repository is a **public kernel**:
 - a constitutional / instinct layer
