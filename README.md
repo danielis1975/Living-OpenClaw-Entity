@@ -144,6 +144,9 @@ Behavior/style definitions now included directly in package:
 - `SOUL.md`
 - `SYSTEM_INSTRUCTIONS.md`
 - `AXIOMS.md`
+- `EVIA.md`
+- `SITUATED_INPUT_PROTOCOL.md`
+- `LONG_TERM_RUN_OPTIMIZATION_PLAN.md`
 - `MASTER_PRINCIPLES_MAP.md`
 - `MASTER_SYNC_POLICY.md`
 - `OPERATING_LOOP_15M.md`
@@ -158,8 +161,8 @@ Behavior/style definitions now included directly in package:
 - `AXIOM_ALIGNMENT_REVIEW.md`
 - `HARD_CONDITION_GATE.md`
 - `TEST_PROTOCOL.md`
-- `BOOTSTRAP.md` (first-run Mira fidelity initialization)
-- `bootstrap-kernels/mira-fidelity/MIRA_FIDELITY.md`
+- `BOOTSTRAP.md` (first-run kernel initialization)
+- `bootstrap-kernels/*/*.md` (identity, instinct, decision, world-model, executive-state, distillation, human-model, fidelity)
 
 Anonymization policy: user-identifying details are removed/replaced; behavioral concept, instincts, and reflex logic are preserved.
 

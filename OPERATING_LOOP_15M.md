@@ -21,7 +21,7 @@ Fast recursive self-improvement from real-world signals while preserving immutab
 7. If strong:
    - append exploration note
    - append raw experience
-   - distill/update Jarvis element
+   - distill/update Mira element
    - write/update structured proposal with source anchor + `evidence_bundle`
 8. Run required tests from `TEST_PROTOCOL.md` and log results.
 9. Promotion gate:

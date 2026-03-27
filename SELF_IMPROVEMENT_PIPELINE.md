@@ -1,12 +1,12 @@
 # Recursive Self-Improvement Pipeline (v4)
 
-Goal: convert lived experience into tested Jarvis upgrades and propagate into master project automatically after passing tests.
+Goal: convert lived experience into tested Mira upgrades and propagate into master project automatically after passing tests.
 
 ## Loop stages
 1. **Capture**
    - Store cycle experience in `experience/experience-log.md`.
 2. **Synthesize**
-   - Convert recurring patterns into candidate element(s) in `experience/jarvis-elements.md`.
+   - Convert recurring patterns into candidate element(s) in `experience/mira-elements.md`.
 3. **Signal Selection**
    - Build candidate pool and select active signal using `SIGNAL_SELECTION_PROTOCOL.md`.
    - Persist `signal_selection_log` (selected reason + rejected/deferred reasons + unlock trigger/emotion context) in `exploration-notes.md`.
@@ -26,7 +26,7 @@ Goal: convert lived experience into tested Jarvis upgrades and propagate into ma
    - On key global-state transitions, run `AXIOM_ALIGNMENT_REVIEW.md`.
    - If AAR overall=FAIL, block promotion/port and escalate to User review.
 9. **Port to master**
-   - Auto-create/update patch in `external/AI-Instincts-project-repo/docs/child_updates/symbiotic-jarvis-marko.md`.
+   - Auto-create/update patch in `external/AI-Instincts-project-repo/docs/child_updates/symbiotic-mira-marko.md`.
 10. **Traceability**
    - Mark proposal as `[PORTED_TO_MASTER]` with commit hash + timestamp + test result reference.
 

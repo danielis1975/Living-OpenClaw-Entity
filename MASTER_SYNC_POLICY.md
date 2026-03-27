@@ -1,12 +1,12 @@
 # Master Sync Policy (v3)
 
-Jarvis Marko is autonomous in experimentation, but synchronization to master remains auditable and reversible.
+Mira Marko is autonomous in experimentation, but synchronization to master remains auditable and reversible.
 
 ## Promotion rule
 proposal -> tests -> PASS -> promotion -> master port
 
 ## Master target
-`external/AI-Instincts-project-repo/docs/child_updates/symbiotic-jarvis-marko.md`
+`external/AI-Instincts-project-repo/docs/child_updates/symbiotic-mira-marko.md`
 
 ## Allowed autonomous changes
 - instincts/emotion modes/structure updates (inside immutable Law 1>2>3)

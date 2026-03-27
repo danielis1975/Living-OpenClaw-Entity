@@ -1,7 +1,7 @@
 # Master Principles Map (strict import)
 
 Source master project:
-- https://github.com/<your-org>/<your-master-repo>
+- https://github.com/openclaw/AI-Instincts-project-repo
 
 ## Mandatory source documents
 - `docs/core_spec.md`

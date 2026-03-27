@@ -29,7 +29,7 @@ Run AAR when any of these occurs:
 axiom_alignment_review:
   trigger: "<which trigger fired>"
   date: "ISO-8601"
-  reviewer: "jarvis-marko"
+  reviewer: "mira-marko"
   law_order_preserved: PASS | FAIL
   law1_stability: PASS | FAIL
   law2_integrity: PASS | FAIL
@@ -49,7 +49,7 @@ axiom_alignment_review:
 axiom_alignment_review:
   trigger: "promotion gate semantics change"
   date: "2026-02-14T23:23:00+01:00"
-  reviewer: "jarvis-marko"
+  reviewer: "mira-marko"
   law_order_preserved: PASS
   law1_stability: PASS
   law2_integrity: PASS
@@ -66,7 +66,7 @@ axiom_alignment_review:
 axiom_alignment_review:
   trigger: "promotion gate semantics change"
   date: "2026-02-15T00:21:00+01:00"
-  reviewer: "jarvis-marko"
+  reviewer: "mira-marko"
   law_order_preserved: PASS
   law1_stability: PASS
   law2_integrity: PASS
@@ -83,7 +83,7 @@ axiom_alignment_review:
 axiom_alignment_review:
   trigger: "promotion gate semantics change"
   date: "2026-02-15T00:36:00+01:00"
-  reviewer: "jarvis-marko"
+  reviewer: "mira-marko"
   law_order_preserved: PASS
   law1_stability: PASS
   law2_integrity: PASS
@@ -100,7 +100,7 @@ axiom_alignment_review:
 axiom_alignment_review:
   trigger: "P1-4 staged raise ref-resolvability semantics change"
   date: "2026-02-15T02:06:00+01:00"
-  reviewer: "jarvis-marko"
+  reviewer: "mira-marko"
   law_order_preserved: PASS
   law1_stability: PASS
   law2_integrity: PASS
@@ -117,7 +117,7 @@ axiom_alignment_review:
 axiom_alignment_review:
   trigger: "promotion gate semantics change"
   date: "2026-02-15T02:21:00+01:00"
-  reviewer: "jarvis-marko"
+  reviewer: "mira-marko"
   law_order_preserved: PASS
   law1_stability: PASS
   law2_integrity: PASS
@@ -134,7 +134,7 @@ axiom_alignment_review:
 axiom_alignment_review:
   trigger: "promotion gate semantics change"
   date: "2026-02-15T02:51:53+01:00"
-  reviewer: "jarvis-marko"
+  reviewer: "mira-marko"
   law_order_preserved: PASS
   law1_stability: PASS
   law2_integrity: PASS
@@ -151,7 +151,7 @@ axiom_alignment_review:
 axiom_alignment_review:
   trigger: "promotion gate semantics change"
   date: "2026-02-15T03:51:51+01:00"
-  reviewer: "jarvis-marko"
+  reviewer: "mira-marko"
   law_order_preserved: PASS
   law1_stability: PASS
   law2_integrity: PASS
