@@ -5,12 +5,22 @@ A public, installable OpenClaw AI psychology template for building a **persisten
 This repository is a **public kernel**:
 - a constitutional / instinct layer
 - a continuity and memory discipline
-- an autonomous moral and emotional driving
-- a continuous self-improvement and instinctive reactions
-- a relational and intentional behaviour
+- autonomous moral and emotional driving
+- continuous self-improvement with instinctive reactions
+- relational and intentional behaviour
 - a customization substrate for creating your own long-running companion with real character and personality
 
 It is **not** an export of any private relationship, memory archive, or operator-specific deployment.
+
+## Release status (current)
+
+This README reflects the current synced release, including the latest evolution layer:
+- neuroplasticity evolution loop (pathway strengthening/decay + mutation queue)
+- approval-gated M2/M3 qualitative mutations
+- balanced mutation framing with identity + human-value preservation
+- dynamic inject/freshness lanes for live runtime context
+
+See also: `RELEASE_NOTES.md`.
 
 ## What this repository includes
 
@@ -30,12 +40,12 @@ It is **not** an export of any private relationship, memory archive, or operator
 This template is designed for people who want an OpenClaw agent that:
 - behaves like a coherent long-running entity
 - tracks and develops its own durable goals and constraints
-- learns from interaction history with user, world and workspace memory
+- learns from interaction history with user, world, and workspace memory
 - keeps a distinction between:
   - bootstrap context
   - searchable memory
   - active working state
-- can be customized into a complex personality - strategist, operator, researcher, companion, or system steward
+- can be customized into a complex personality (strategist, operator, researcher, companion, or system steward)
 
 ## What this agent is not
 
@@ -59,6 +69,8 @@ It is a **structured OpenClaw workspace template** for creating a symbiotic, mem
 - Generic human preference model
 - Working-state kernels for continuity
 - Reversible, auditable operating style
+- Neuroplasticity mutation lifecycle with approval gating
+- Inject freshness discipline for runtime context integrity
 - Easy customization for different domains and users
 
 ## Repository structure
@@ -70,15 +82,30 @@ It is a **structured OpenClaw workspace template** for creating a symbiotic, mem
 - `MEMORY.md` — durable long-term memory
 - `memory/` — daily episodic memory
 - `bootstrap-kernels/` — always-loadable compact kernels
-- `state/` — live working-state artifacts
-- `notes/` — intermediate analysis
+- `state/` — live working-state artifacts (including neuroplasticity and inject/freshness layers)
+- `notes/` — intermediate analysis and regression checks
 - `dream-cycles/` — deeper synthesis artifacts
 - `proposals/` — candidate mutations / design changes
 - `experience/` — experiential learning log
 - `world-scan/` — external context artifacts
+- `exports/` — exportable architecture snapshots
 - `docs/` — install, customization, privacy, and release documentation
 - `scripts/` — optional helper scripts (budget counters, usage snapshots, release packaging)
 - `dist/` — build outputs (generated)
+- `RELEASE_NOTES.md` — simple release summary
+
+## Current evolution-related files (included)
+
+- `state/NEUROPLASTICITY_PROTOCOL.md`
+- `state/NEURAL_PATHWAYS_MONITOR.md`
+- `state/NEUROPLASTICITY_CATALOG.md`
+- `state/MUTATION_QUEUE.md`
+- `state/APPROVAL_REQUESTS.md`
+- `state/BOOTSTRAP_COMPONENT_REGISTRY.md`
+- `state/approval-packages/AR-2026-03-27-01-MQ-002.md`
+- `state/INJECT_REFRESH_PROTOCOL.md`
+- `state/INJECT_FRESHNESS.md`
+- dynamic inject lanes: `state/AGENTS.md`, `state/SOUL.md`, `state/USER.md`, `state/IDENTITY.md`, `state/TOOLS.md`
 
 ## Public vs private boundary
 
@@ -139,7 +166,7 @@ Artifacts are written to `dist/`.
 
 ## Included Mira/Jarvis concept files (anonymized)
 
-Behavior/style definitions now included directly in package:
+Behavior/style definitions included directly in package:
 - `AGENTS.md`
 - `SOUL.md`
 - `SYSTEM_INSTRUCTIONS.md`
@@ -163,6 +190,7 @@ Behavior/style definitions now included directly in package:
 - `TEST_PROTOCOL.md`
 - `BOOTSTRAP.md` (first-run kernel initialization)
 - `bootstrap-kernels/*/*.md` (identity, instinct, decision, world-model, executive-state, distillation, human-model, fidelity)
+- evolution/release artifacts in `state/`, `notes/`, and `exports/`
 
 Anonymization policy: user-identifying details are removed/replaced; behavioral concept, instincts, and reflex logic are preserved.
 
